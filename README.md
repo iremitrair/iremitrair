@@ -1,7 +1,7 @@
 ## Moikka! 👋
+<img align="right"  width="128" height="128" alt="profile_pic" src="https://github.com/user-attachments/assets/3cdcf15f-f89a-4e2a-818c-b7e836a348fd" />
 
-I'm Ilona, a linguist and beginner programmer. (img width="128" height="128" alt="profile_pic" src="https://github.com/user-attachments/assets/d6d0fd5c-7250-43b2-9214-8ecd64cdc21c"
-)
+I'm Ilona, a linguist and beginner programmer. 
 
 **Programming**
 I have worked with: 
