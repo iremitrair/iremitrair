@@ -3,7 +3,7 @@
 
 I'm Ilona, a linguist and beginner programmer. 
 
-**Programming**
+**Programming**<br>
 I have worked with: 
   - kotlin
   - python
@@ -15,7 +15,7 @@ I'm currently learning:
   - css
   - java script
 
-**Languages**
+**Languages**<br>
 Native Finnish speaker.
 I've studied:
   - english
